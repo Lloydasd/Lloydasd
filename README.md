@@ -47,7 +47,7 @@
 <section id="contact">
   <h2>📫 Contact</h2>
   <p>
-    Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a>
+    Reach me at: <a href="mailto:your.email@example.com">asiedulloyd06@gmail.com</a>
   </p>
 </section>
 
